@@ -159,8 +159,8 @@
                                                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                     <textInputTraits key="textInputTraits"/>
                                                     <connections>
-                                                        <action selector="returnKeyPressed:" destination="bXF-zs-eFH" eventType="editingDidEnd" id="B1R-Bz-vIn"/>
-                                                        <action selector="textEditingChanged:" destination="bXF-zs-eFH" eventType="editingDidEnd" id="hD8-kF-0dd"/>
+                                                        <action selector="returnKeyPressed:" destination="bXF-zs-eFH" eventType="primaryActionTriggered" id="RTj-FD-HgR"/>
+                                                        <action selector="textEditingChanged:" destination="bXF-zs-eFH" eventType="editingChanged" id="cJH-BH-QG6"/>
                                                     </connections>
                                                 </textField>
                                             </subviews>
@@ -188,8 +188,8 @@
                                                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                     <textInputTraits key="textInputTraits"/>
                                                     <connections>
-                                                        <action selector="returnKeyPressed:" destination="bXF-zs-eFH" eventType="editingDidEnd" id="dUL-6k-HPH"/>
-                                                        <action selector="textEditingChanged:" destination="bXF-zs-eFH" eventType="editingDidEnd" id="51a-Sv-42R"/>
+                                                        <action selector="returnKeyPressed:" destination="bXF-zs-eFH" eventType="primaryActionTriggered" id="vjL-g9-ynU"/>
+                                                        <action selector="textEditingChanged:" destination="bXF-zs-eFH" eventType="editingChanged" id="rjl-Wu-MNN"/>
                                                     </connections>
                                                 </textField>
                                             </subviews>

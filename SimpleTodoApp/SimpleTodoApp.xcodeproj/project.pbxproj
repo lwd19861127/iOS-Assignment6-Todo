@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		040AF1BB2465382B00F374FD /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 040AF1BA2465382B00F374FD /* icon.png */; };
 		04372E5224611784009617B2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04372E5124611784009617B2 /* AppDelegate.swift */; };
 		04372E5424611784009617B2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04372E5324611784009617B2 /* SceneDelegate.swift */; };
 		04372E5824611786009617B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04372E5724611786009617B2 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		040AF1BA2465382B00F374FD /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		04372E4E24611784009617B2 /* SimpleTodoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleTodoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04372E5124611784009617B2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04372E5324611784009617B2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				04372E6F2463F1D2009617B2 /* DetailViewController.swift */,
 				04372E5724611786009617B2 /* Assets.xcassets */,
 				04372E5F24611786009617B2 /* Info.plist */,
+				040AF1BA2465382B00F374FD /* icon.png */,
 				04372E5924611786009617B2 /* Preview Content */,
 			);
 			path = SimpleTodoApp;
@@ -145,6 +148,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				040AF1BB2465382B00F374FD /* icon.png in Resources */,
 				04372E5B24611786009617B2 /* Preview Assets.xcassets in Resources */,
 				04372E5824611786009617B2 /* Assets.xcassets in Resources */,
 				04372E662461183B009617B2 /* Main.storyboard in Resources */,
